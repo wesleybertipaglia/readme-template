@@ -15,17 +15,9 @@ This repository provides a collection of README templates for creating well-docu
 
 ## 🤖 Getting Started
 
-If you want to use one of these templates for your project, follow the steps below.
+If you want to use one of these templates for your project, you can copy your favorite template and paste in your readme, [clone this repository](#clone-this-repository) or create a [new repository](https://github.com/new?template_name=readme-template&template_owner=wesleybertipaglia) with this template.
 
-#### Prerequisites
-
-Make sure you have the necessary software and tools installed. Example:
-
-```bash
-npm install -g yarn
-```
-
-#### Installation
+#### Clone this Repository
 
 Clone this repository to get started.
 
