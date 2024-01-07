@@ -57,10 +57,18 @@ Explain how others can contribute to your project. Include guidelines for submit
 
 We welcome contributions to this repository! If you have web development or programming tutorials, articles, or resources to share, please follow our [contributing guidelines](CONTRIBUTING.md) to submit your work. Your contributions will help make this repository a valuable resource for the community.
 
+## 📬 Join the Community
+
+Engage with a vibrant community by participating in discussions, sharing ideas, and collaborating on this project. The repository's issue tracker is the perfect place to ask questions, provide feedback, or suggest improvements.
+
+[Join on Discord](https://discord.gg/)
+
 ## 📜 License
 
-Specify the license under which your project is distributed. Choose an open-source license that aligns with your project's goals.
+This repository is licensed under the [MIT]. See the [LICENSE](LICENSE) file for details.
 
 ## 🎉 Acknowledgments
 
 Give credit to any third-party libraries, resources, or individuals you used or were inspired by in your project.
+
+[Back to top](#project-title)
