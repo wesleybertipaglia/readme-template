@@ -71,4 +71,10 @@ This repository is licensed under the [MIT]. See the [LICENSE](LICENSE) file for
 
 Give credit to any third-party libraries, resources, or individuals you used or were inspired by in your project.
 
+## 🏆 Top Contributors
+
+<a href="https://github.com/wesleybertipaglia/readme-template/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo=wesleybertipaglia/readme-template"/>
+</a>
+
 [Back to top](#project-title)
