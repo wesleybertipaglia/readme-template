@@ -41,4 +41,10 @@ This repository is licensed under the [MIT]. See the [LICENSE](LICENSE) file for
 
 A big thank you to the open-source community for inspiring and supporting this project.
 
+## 🏆 Top Contributors
+
+<a href="https://github.com/wesleybertipaglia/readme-template/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo=wesleybertipaglia/readme-template"/>
+</a>
+
 [Back to top](#readme-template-repository)
